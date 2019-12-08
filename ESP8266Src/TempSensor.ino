@@ -20,8 +20,8 @@
 
 /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "adsup"
-#define WLAN_PASS       "7346121744"
+#define WLAN_SSID       "xxxxxx"
+#define WLAN_PASS       "xxxxxxxxxxx"
 
 /************************* MQTT Server Setup *********************************/
 
